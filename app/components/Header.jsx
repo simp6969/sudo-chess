@@ -8,7 +8,6 @@ export function Header() {
           className="rounded-[10px]"
           src="./icon.jpg"
         />
-        <p>sudo</p>
       </div>
       <button className="btn btn-primary ">Sign in</button>
     </div>
